@@ -1,0 +1,7 @@
+{
+  "Discord": {
+    "ClientId": "1533169561061425344",
+    "ClientSecret": "MapAhRDeuPEud7GD30LE_azMNPRhn1Fi",
+    "RedirectUri": "https://YOUR_RENDER_URL/callback"
+  }
+}
